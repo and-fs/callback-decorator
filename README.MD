@@ -3,7 +3,7 @@
 This package contains a decorator for ensuring the call of a specific callback
 argument - even when this callback is passed to other (decorated) functions.
 
-## For what is it for?
+## What is it for?
 
 If you ever had to deal with an asynchronous path which has to call a specific callback
 as soon as the path has been left or the work had been finished, you know how hard
