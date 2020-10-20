@@ -90,7 +90,7 @@ Of course you can use this patterns with coroutines and coroutine generators, to
 
 :author: André Fritzsche-Schwalbe (andre.fritzsche@web.de)
 
-:url: https://github.com/and-fs
+:url: https://github.com/and-fs/callback-decorator
 
 :license: MIT
 """
